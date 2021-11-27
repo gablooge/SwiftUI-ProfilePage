@@ -11,7 +11,7 @@ import SwiftUI
 struct ProfileApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            TierView()
         }
     }
 }
